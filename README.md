@@ -1,16 +1,22 @@
-- 👋 Hey there, I’m @junaidmumtaz
-- 🔐 Passionate about Cybersecurity, KQL, and Cloud Tech
-- 🌐 Currently diving into CI/CD pipelines, Generative AI, and Scripting
-- 🚀 Looking to collaborate on KQL and anything related to cloud security
-- 🔄 I’m always open to discussions on:
-    - Automation & CI/CD
-    - Azure Security
-    - Data-driven security analysis
-- 🎯 Current focus:
-    - Mastering Cloud-native security patterns
-    - Building scalable DevSecOps pipelines
+Hey there, I’m Junaid Mumtaz
+🔐 Cloud Security Consultant | DevSecOps Enthusiast |
 
-<!---
-junaidmumtaz/junaidmumtaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m passionate about designing secure, scalable, and automated cloud environments — blending security with innovation. My work focuses on Azure Security, KQL-driven insights, and CI/CD automation to empower organizations to build with confidence.
+
+🌐 What I’m Exploring
+
+Generative AI in security workflows
+Advanced CI/CD pipelines for secure software delivery
+Automation and orchestration in cloud-native environments
+
+🚀 Let’s Collaborate On
+
+KQL analytics and hunting queries
+Cloud security automation (Azure, Sentinel, Defender XDR)
+DevSecOps best practices and blueprints
+
+🎯 Current Focus
+
+Building scalable, cloud-native DevSecOps pipelines
+Mastering data-driven threat detection and response patterns
+Driving security-by-design culture in engineering teams
