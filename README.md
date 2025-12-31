@@ -1,4 +1,4 @@
-# Junaid Mumtaz - DevSecOps | SOC Consultant
+# Junaid Mumtaz - Cloud Security Expert | DevSecOps 
 
 Cybersecurity professional with 6+ years of experience across SOC operations, cloud security, and DevSecOps. I focus on detection engineering, security automation, and integrating security into CI/CD pipelines for cloud and hybrid environments.
 
