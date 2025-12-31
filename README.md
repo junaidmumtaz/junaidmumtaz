@@ -2,8 +2,6 @@
 
 Cybersecurity professional with 6+ years of experience across SOC operations, cloud security, and DevSecOps. I focus on detection engineering, security automation, and integrating security into CI/CD pipelines for cloud and hybrid environments.
 
-> KQL is not just a query language; it's how I turn data into actionable security insights. 
-
 ## Key Expertise
 
 - Incident Detection & Response: Monitoring, triaging, and coordinating security incidents  
@@ -15,7 +13,7 @@ Cybersecurity professional with 6+ years of experience across SOC operations, cl
 - Vulnerability & Risk Management: Integrating threat intelligence platforms like Recorded Future  
 - Operational Reporting & Metrics: Dashboards, KPIs, and analytics for leadership and compliance  
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Cloud: Azure, AWS, GCP <br>
 - SIEM: Microsoft Sentinel, IBM QRadar, Splunk, Wazuh  
 - SOAR: IBM Resilient, SIRP, Cloud-native SOAR   
@@ -29,14 +27,14 @@ Cybersecurity professional with 6+ years of experience across SOC operations, cl
 - Scripting: Python, Bash, PowerShell  
 - Version Control: Git, GitHub, GitLab  
 
-## 🎯 What I Work On
+## What I Work On
 - Threat detection, hunting, and incident response  
 - SIEM/XDR engineering and alert quality improvement  
 - Security automation and orchestration  
 - Cloud security and DevSecOps pipelines  
 
 
-## 🏆 Certifications
+## Certifications
 ![CISM](https://img.shields.io/badge/Certified%20Information%20Security%20Manager-CISM-0078D4?style=for-the-badge)
 ![CEH](https://img.shields.io/badge/Certified%20Ethical%20Hacker-CEH-1A1A1A?style=for-the-badge)
 ![SC-100](https://img.shields.io/badge/Microsoft%20Cybersecurity%20Architect%20Expert-SC--100-0078D4?style=for-the-badge)
@@ -46,6 +44,9 @@ Cybersecurity professional with 6+ years of experience across SOC operations, cl
 ![AZ-900](https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-AZ--900-0078D4?style=for-the-badge)
 
 
-## 🔗 Connect
+## Connect
 - LinkedIn:https://www.linkedin.com/in/junaid-mumtaz-nl/
 - Medium:https://medium.com/@junaidmumtaz438 
+
+
+> KQL is not just a query language; it's how I turn data into actionable security insights. 
