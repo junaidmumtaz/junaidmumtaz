@@ -40,7 +40,7 @@ Cybersecurity professional with 6+ years of experience across SOC operations, cl
 ![SC-100](https://img.shields.io/badge/Microsoft%20Cybersecurity%20Architect%20Expert-SC--100-0078D4?style=for-the-badge)
 ![SC-200](https://img.shields.io/badge/Microsoft%20Security%20Operations%20Analyst-SC--200-0078D4?style=for-the-badge)
 ![SC-300](https://img.shields.io/badge/Microsoft%20Identity%20%26%20Access%20Administrator-SC--300-0078D4?style=for-the-badge)
-![SC-900](https://img.shields.io/badge/Microsoft%20Security%2C%20Compliance%20%26%20Identity%20Fundamentals-SC--900-0078D4?style=for-the-badge)
+![SC-900](https://img.shields.io/badge/Microsoft%20Security%2C%20Compliance%20%26%20Identity-SC--900-0078D4?style=for-the-badge)
 ![AZ-900](https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-AZ--900-0078D4?style=for-the-badge)
 
 
